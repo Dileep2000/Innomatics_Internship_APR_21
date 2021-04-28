@@ -28,3 +28,11 @@ This task contains excersies on:
 3. sets ans sets operations
 
 ============================================================================
+
+Task - 3 (Python Programming)
+
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math
+
+This task contains excersies on Math(usage of math,cmath libraries and their methods)
+
+==============================================================================
