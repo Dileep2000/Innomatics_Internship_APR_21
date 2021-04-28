@@ -1,5 +1,5 @@
 # Innomatics_Internship_APR_21
-Task_1 : Basic Introduction of python 
+Task_1(Python Programming) : Basic Introduction of python 
 
 (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
 
@@ -14,5 +14,17 @@ It contains :
 7. Look in deatiled about print function.
 
 End Of Task_1
+
+============================================================================
+
+Task_2(Pythom Programming) : Basic Data Types in Python
+
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types&filters%5Bsubdomains%5D%5B%5D=py-sets
+
+This task contains excersies on:
+
+1.List- List Comprehesions, Nested Lists
+2.Tuples
+3.sets ans sets operations
 
 ============================================================================
