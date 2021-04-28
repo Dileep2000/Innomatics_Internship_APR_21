@@ -24,10 +24,7 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic
 This task contains excersies on:
 
 1. List- List Comprehesions, Nested Lists
-
 2. Tuples
-
-
 3. sets ans sets operations
 
 ============================================================================
