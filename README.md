@@ -41,6 +41,6 @@ Task - 4 (Python Programming)
 
 https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings
 
-This task contains excersies on stings(string formating and manipulation)
+This task contains excersies on stings(string formatting and manipulation)
 
 =============================================================================
