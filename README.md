@@ -50,3 +50,13 @@ Task - 5 (Python Programming)
 https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex
 
 This task contains excersies on REGEX(Regular Expressions).
+
+============================================================================
+
+Task - 6 (Numpy)
+
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy
+
+This task contains excersies on Numpy(Numerical Python)
+
+============================================================================
