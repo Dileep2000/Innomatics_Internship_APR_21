@@ -75,4 +75,4 @@ https://docs.google.com/document/d/1nr11js9SqibgEOKF8YgR1k1CN_BBH7_zIuy2syUmdk8/
 
 This task contains excersies on Statistics(Binomial Distribution, Normal Distribution, Central Limit Theorem, Pearsom Correlation, LinearRegresion Coefficients)
 
-=============================================================================
+============================================================================
