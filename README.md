@@ -60,3 +60,19 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy
 This task contains excersies on Numpy(Numerical Python)
 
 ============================================================================
+
+Task - 7 (Descriptive Stats)
+
+https://docs.google.com/document/d/1K0K_RFSEBnHHYVbIBqX-VlsghzxGhnpwKgX3T16dUrg/edit?usp=sharing
+
+This task contains detailed description about Descriptive statastics and normal distribution and implementation with and without libraries functions
+
+============================================================================
+
+Task - 8 (Statistics Questions)
+
+https://docs.google.com/document/d/1nr11js9SqibgEOKF8YgR1k1CN_BBH7_zIuy2syUmdk8/edit?usp=sharing
+
+This task contains excersies on Statistics(Binomial Distribution, Normal Distribution, Central Limit Theorem, Pearsom Correlation, LinearRegresion Coefficients)
+
+=============================================================================
