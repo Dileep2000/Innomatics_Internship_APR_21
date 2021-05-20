@@ -76,3 +76,12 @@ https://docs.google.com/document/d/1nr11js9SqibgEOKF8YgR1k1CN_BBH7_zIuy2syUmdk8/
 This task contains excersies on Statistics(Binomial Distribution, Normal Distribution, Central Limit Theorem, Pearsom Correlation, LinearRegresion Coefficients)
 
 ============================================================================
+
+Task - 9 (Hypothesis Testing)
+
+https://docs.google.com/document/d/1IAHYKHvpP-of2qJONNLNw72jIcfzcMmdb42yz4dxUoo/edit?usp=sharing
+
+This task contains details about Hypothesis testing(z-test and t-) and how to implement them.
+
+==========================================================================
+
