@@ -27,7 +27,7 @@ This task contains excersies on:
 2. Tuples
 3. sets ans sets operations
 
-==============================================================================
+============================================================================
 
 Task - 3 (Python Programming)
 
@@ -35,7 +35,7 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math
 
 This task contains excersies on Math(usage of math,cmath libraries and their methods)
 
-===============================================================================
+============================================================================
 
 Task - 4 (Python Programming)
 
@@ -43,7 +43,7 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strin
 
 This task contains excersies on stings(string formatting and manipulation)
 
-===============================================================================
+============================================================================
 
 Task - 5 (Python Programming)
 
@@ -51,7 +51,7 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex
 
 This task contains excersies on REGEX(Regular Expressions).
 
-===============================================================================
+============================================================================
 
 Task - 6 (Numpy)
 
@@ -59,7 +59,7 @@ https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy
 
 This task contains excersies on Numpy(Numerical Python)
 
-================================================================================
+============================================================================
 
 Task - 7 (Descriptive Stats)
 
@@ -67,7 +67,7 @@ https://docs.google.com/document/d/1K0K_RFSEBnHHYVbIBqX-VlsghzxGhnpwKgX3T16dUrg/
 
 This task contains detailed description about Descriptive statastics and normal distribution and implementation with and without libraries functions
 
-==================================================================================
+============================================================================
 
 Task - 8 (Statistics Questions)
 
@@ -75,7 +75,7 @@ https://docs.google.com/document/d/1nr11js9SqibgEOKF8YgR1k1CN_BBH7_zIuy2syUmdk8/
 
 This task contains excersies on Statistics(Binomial Distribution, Normal Distribution, Central Limit Theorem, Pearsom Correlation, LinearRegresion Coefficients)
 
-===================================================================================
+=============================================================================
 
 Task - 9 (Hypothesis Testing)
 
@@ -83,7 +83,7 @@ https://docs.google.com/document/d/1IAHYKHvpP-of2qJONNLNw72jIcfzcMmdb42yz4dxUoo/
 
 This task contains details about Hypothesis testing(z-test and t-) and how to implement them.
 
-===================================================================================
+============================================================================
 
 Task - 10 (Exploratory Data Analysis)
 
@@ -91,4 +91,4 @@ https://drive.google.com/file/d/1vDRsZ-mZSb0K8njSbJ4eg0qKeablHFNC/view?usp=shari
 
 This task is about how to do EXploratory Data Analysis on given data.
 
-====================================================================================
+============================================================================
