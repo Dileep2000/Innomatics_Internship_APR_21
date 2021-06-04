@@ -92,3 +92,10 @@ https://drive.google.com/file/d/1vDRsZ-mZSb0K8njSbJ4eg0qKeablHFNC/view?usp=shari
 This task is about how to do EXploratory Data Analysis on given data.
 
 ============================================================================
+
+Task - 11 (EDA + Missing Value + Outlier + ML Model)
+https://docs.google.com/document/d/1gnRdpd5Iw2c-QUcXDHXIeI8oVLxTDtOYhqbwSNSbkiU/edit?usp=sharing
+
+This task is about how to do EXploratory Data Analysis , oulier's and missing values handelling, Model buliding.
+
+============================================================================
