@@ -99,3 +99,9 @@ https://docs.google.com/document/d/1gnRdpd5Iw2c-QUcXDHXIeI8oVLxTDtOYhqbwSNSbkiU/
 This task is about how to do EXploratory Data Analysis , oulier's and missing values handelling, Model buliding.
 
 ============================================================================
+
+Task - 13 (Flask Note Taking Application)
+
+This task is about how to use flask application development.
+
+============================================================================
